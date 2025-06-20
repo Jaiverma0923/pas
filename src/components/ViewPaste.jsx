@@ -11,7 +11,7 @@ const ViewPaste = () => {
   return (
     <div className='flex flex-col w-[600px] h-[600px] bg-blue-600 mt-[50px] rounded-3xl'>
       <div className='flex items-center w-[100%] p-10 text-left text-5xl'>{paste.title}</div>
-      <div className='text-black w-[100%] h-[inherit] overflow-auto rounded-br-3xl rounded-bl-3xl text-left p-10 pt-5 text-2xl bg-yellow-300 border-8 border-black'>{paste.content}</div>
+      <div className='text-white w-[100%] h-[inherit] overflow-auto rounded-br-3xl rounded-bl-3xl text-left p-10 pt-5 text-2xl bg-black '>{paste.content}</div>
     </div>
   )
 }
