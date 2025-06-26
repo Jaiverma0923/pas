@@ -30,6 +30,8 @@ A simple web-based text pasting and sharing tool. Just paste, save, and share!
 - **Vercel** (for hosting)
 
 ---
+📌 Note
+This is a practice project for learning and experimenting with React, routing, and basic text storage techniques.
 
 ## ⚙️ Getting Started
 
@@ -40,3 +42,4 @@ git clone https://github.com/your-username/pasteall.git
 cd pasteall
 npm install
 npm run dev
+
